@@ -37,19 +37,19 @@ export function Footer() {
             <h4 className="text-white mb-4">Connect</h4>
             <div className="flex gap-4 mb-4">
               <a 
-                href="mailto:deina@example.com"
+                href="ronquillo.deinasophia@gmail.com"
                 className="bg-purple-600/20 rounded-lg w-10 h-10 flex items-center justify-center hover:bg-purple-600/30 transition-colors"
               >
                 <Mail className="h-5 w-5 text-purple-400" />
               </a>
               <a 
-                href="#"
+                href="https://www.linkedin.com/in/deina-sophia-ronquillo-b337b028b/"
                 className="bg-purple-600/20 rounded-lg w-10 h-10 flex items-center justify-center hover:bg-purple-600/30 transition-colors"
               >
                 <Linkedin className="h-5 w-5 text-purple-400" />
               </a>
               <a 
-                href="#"
+                href="https://github.com/Deinacakes"
                 className="bg-purple-600/20 rounded-lg w-10 h-10 flex items-center justify-center hover:bg-purple-600/30 transition-colors"
               >
                 <Github className="h-5 w-5 text-purple-400" />
@@ -66,6 +66,10 @@ export function Footer() {
             © 2024 Deina Sophia Ronquillo. All rights reserved.
           </p>
           <p className="text-slate-400 flex items-center gap-2">
+
+
+
+            
             Made with <Heart className="h-4 w-4 text-purple-400 fill-purple-400" /> and passion
           </p>
         </div>
